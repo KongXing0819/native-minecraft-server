@@ -601,7 +601,7 @@
 },
 {
   "name": "java.util.ServiceLoader",
-  "methods":[{"name":"load","parameterTypes"::["java.lang.Class", "java.lang.ClassLoader"] }]
+  "methods":[{"name":"load","parameterTypes":["java.lang.Class", "java.lang.ClassLoader"] }]
 },
 {
   "name":"javax.management.MBeanOperationInfo",
